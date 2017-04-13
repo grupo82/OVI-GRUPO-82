@@ -1,0 +1,82 @@
+/* --- Cabecera (#header, #logo) ------------------------------------------ */
+#cabecera { 
+height: 50px; 
+margin: 50px;
+border: 5px;
+}
+div {
+	
+}
+
+
+#caja1 {
+	
+  background:#ffffff;
+  border: 1px;
+  border color:#005883;
+}
+
+#header {
+  height: 100px;
+  margin: 50px;
+  width: 900px;
+  clear: both;
+  position: relative;
+
+}
+ 
+#logo {
+  background: transparent url(../logoUNAD.jpg) no-repeat;
+  float: left;
+}
+#logo a {
+  display: block;
+  text-indent: -999px;
+  height: 90px; 
+  width: 240px;
+  margin: none;
+}
+ div {
+  width: 900px;
+  border: 10px color:#F0B429;
+}
+body
+	{
+	margin: 1em;
+	padding: 1em;
+	font-family: Helvetica, Arial, sans-serif;
+	color: #666;
+	background:#fff; 
+	font-size: 1em;
+	line-height:1em;
+	border-color:#212121;
+	}
+h1
+	{
+	font-size:1em;
+	line-height:1.1em;
+	margin: 1px 0;
+	text-align: center;
+	font-weight: 20;
+	}
+p
+	{
+	margin: 1em 1;
+	background:;
+	}
+img
+	{
+	max-width: 50%;
+	height: 50%;
+
+	}
+	 #cabecera{	
+	  height:100px;
+	  background:#838383;
+	  
+	}
+	#cuerpo{	
+	  height:800px;
+	  background:#005883;
+	  
+	}
